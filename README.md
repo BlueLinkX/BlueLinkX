@@ -81,7 +81,7 @@ Automatic Adaptation Rule Optimization via Large Language Models.
 *IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS)*.
 
 [7] Ishimizu, Y., Li, J., Yamauchi, T., Chen, S., **Cai, J.**, Hirano, T., & Tei, K. (2024).  
-Towards Efficient Discrete Controller Synthesis via LLM.  
+Towards Efficient Discrete Controller Synthesis: Semantics-Aware Stepwise Policy Design via LLM
 *IEEE International Conference on Consumer Electronics Asia (ICCE-Asia)*.
 
 [8] Suzuki, K., **Cai, J.**, Li, J., Yamauchi, T., & Tei, K. (2023).  

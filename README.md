@@ -20,7 +20,7 @@ My research focuses on applying **LLMs to improve software reliability and intel
 
 ## Journal Papers
 
-[1](ゲーム関連) ⭐ **Cai, J. (First Author)**, Li, J., Zhang, M., & Tei, K. (2023).  
+[1] (ゲーム関連) ⭐ **Cai, J. (First Author)**, Li, J., Zhang, M., & Tei, K. (2023).  
 Value Iteration Networks with Gated Summarization Module.  
 *IEEE Access*.
 
@@ -32,21 +32,21 @@ Multi-grained Guaranteeable Requirement Analysis for Iterative Adaptation.
 Automatic Generation and Optimization of Adaptation Rules using Large Language Models.  
 *IPSJ Journal*.
 
-[4](ゲーム関連) ⭐ **Cai, J. (First Author)**, Zhang, M., Li, N., Xu, J., Li, T., Li, J., Iba, H., & Tei, K. (2025).  
+[4] (ゲーム関連) ⭐ **Cai, J. (First Author)**, Zhang, M., Li, N., Xu, J., Li, T., Li, J., Iba, H., & Tei, K. (2025).  
 Automated Smoking Testing for Multi-ending Game Quest via Large Language Models.  
 *IEEE Transactions on Games*.  
 Conditional Accept.
 
-[5](ゲーム関連) ⭐ **Cai, J. (First Author)**, Ishimizu, Y., Zhang, M., Li, M., Li, J.*, & Tei, K. (2025).  
+[5] (ゲーム関連) ⭐ **Cai, J. (First Author)**, Ishimizu, Y., Zhang, M., Li, M., Li, J.*, & Tei, K. (2025).  
 Simulation of Language Evolution under Regulated Social Media Platforms.  
 *IEEE Transactions on Computational Social Systems*.  
 Under Review.
 
-[6](ゲーム関連) Mu, E., **Cai, J.**, Lu, Y., Zhang, M., Tei, K., & Li, J.* (2026).  
+[6] (ゲーム関連) Mu, E., **Cai, J.**, Lu, Y., Zhang, M., Tei, K., & Li, J.* (2026).  
 Knowledge Graph-enhanced Large Language Model for Incremental Game PlayTesting.  
 *IEICE Transactions on Information and Systems*.
 
-[7](ゲーム関連) ⭐ **Cai, J. (First Author)**, Li, J., Li, N., Mao, Z., Zhang, M., & Tei, K. (2026).  
+[7] (ゲーム関連) ⭐ **Cai, J. (First Author)**, Li, J., Li, N., Mao, Z., Zhang, M., & Tei, K. (2026).  
 SAGE: Semantic-Aware Gray-Box Game Regression Testing with Large Language Models.  
 Submitted to *Automated Software Engineering*.  
 Major Revision.
@@ -67,11 +67,11 @@ Language Evolution for Evading Social Media Regulation via LLM-based Multi-agent
 Evaluating Vision-Language Models in Visual Comprehension for Autonomous Driving.  
 *IEEE International Conference on Software Engineering and Artificial Intelligence (SEAI)*.
 
-[4](ゲーム関連) ⭐ **Cai, J. (First Author)**, Xu, J., Li, J., Yamauchi, T., Iba, H., & Tei, K. (2024).  
+[4] (ゲーム関連) ⭐ **Cai, J. (First Author)**, Xu, J., Li, J., Yamauchi, T., Iba, H., & Tei, K. (2024).  
 Exploring the Improvement of Evolutionary Computation via Large Language Models.  
 *Genetic and Evolutionary Computation Conference (GECCO)*.
 
-[5](ゲーム関連) ⭐ **Cai, J. (First Author)**, Li, J., Li, N., Zhang, M., Yang, R., & Tei, K. (2024).  
+[5] (ゲーム関連) ⭐ **Cai, J. (First Author)**, Li, J., Li, N., Zhang, M., Yang, R., & Tei, K. (2024).  
 Overcooked Plus: A Comprehensive Cooking Scenario TestBed for Enhancing the Evaluation of Autonomous Planning Algorithms.  
 *IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS)*.
 
@@ -91,7 +91,7 @@ A Comparative Evaluation on Melody Generation of Large Language Models.
 Towards Enhancing Driver’s Perceived Safety in Autonomous Driving.  
 *International Conference on Intelligent Systems Design and Applications (ISDA)*.
 
-[10](ゲーム関連) ⭐ **Cai, J. (First Author)**, Li, J., Mao, Z., & Tei, K. (2022).  
+[10] (ゲーム関連) ⭐ **Cai, J. (First Author)**, Li, J., Mao, Z., & Tei, K. (2022).  
 Value Iteration Residual Network with Self-attention.  
 *International Conference on Intelligent Systems Design and Applications (ISDA)*.
 

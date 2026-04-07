@@ -35,12 +35,12 @@ Automatic Generation and Optimization of Adaptation Rules using Large Language M
 [4] (ゲーム関連) ⭐ **Cai, J. (First Author)**, Zhang, M., Li, N., Xu, J., Li, T., Li, J., Iba, H., & Tei, K. (2025).  
 Automated Smoking Testing for Multi-ending Game Quest via Large Language Models.  
 *IEEE Transactions on Games*.  
-Conditional Accept.
+Major Revision.
 
 [5] (ゲーム関連) ⭐ **Cai, J. (First Author)**, Ishimizu, Y., Zhang, M., Li, M., Li, J.*, & Tei, K. (2025).  
 Simulation of Language Evolution under Regulated Social Media Platforms.  
 *IEEE Transactions on Computational Social Systems*.  
-Under Review.
+Major Revision.
 
 [6] (ゲーム関連) Mu, E., **Cai, J.**, Lu, Y., Zhang, M., Tei, K., & Li, J.* (2026).  
 Knowledge Graph-enhanced Large Language Model for Incremental Game PlayTesting.  

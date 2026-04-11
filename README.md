@@ -109,12 +109,12 @@ Publication statuses below are recorded as of **April 11, 2026**.
 4. **Cai, J. (First Author)**, Zhang, M., Li, N., Xu, J., Li, T., Li, J., Iba, H., & Tei, K. (2025).  
    *Automated Smoking Testing for Multi-ending Game Quest via Large Language Models.*  
    *IEEE Transactions on Games*. `SCImago 2024: Q2`  
-   Conditional Accept.
+   Major Revision.
 
 5. **Cai, J. (First Author)**, Ishimizu, Y., Zhang, M., Li, M., Li, J., & Tei, K. (2025).  
    *Simulation of Language Evolution under Regulated Social Media Platforms.*  
-   *IEEE Transactions on Computational Social Systems*. `SCImago 2024: Q1`  
-   Under Review.
+   *Journal of Computational Social Science (JCSS)*. `SCImago 2024: Q2`  
+   Major Revision.
 
 6. Mu, E., **Cai, J.**, Lu, Y., Zhang, M., Tei, K., & Li, J. (2026).  
    *Knowledge Graph-enhanced Large Language Model for Incremental Game PlayTesting.*  

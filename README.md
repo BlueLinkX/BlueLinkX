@@ -60,8 +60,6 @@ I am a Ph.D. student at Waseda University working at the intersection of large l
 - **W-SPRING**, Waseda University Open Innovation Ecosystem Program for Pioneering Research (`2023.10 - 2026.09`)
 - **CSCE Department Award / 情報理工・情報通信専攻賞**, Waseda University (`2023.09`)
 
-Metrics and publication statuses are based on the CV data as of `2026-04-30`.
-
 ---
 
 ## Skills / スキル

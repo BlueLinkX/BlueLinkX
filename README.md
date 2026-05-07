@@ -81,7 +81,7 @@ I am a Ph.D. student at Waseda University working at the intersection of large l
 
 ## Publications / 研究業績
 
-Conference entries include CORE ranks. Venues without a current CORE listing are marked `N/A`. Publication statuses are based on the CV data as of `2026-04-30`.
+Conference entries include CORE ranks. Venues without a current CORE listing are marked `N/A`. 
 
 ### Journal Papers
 

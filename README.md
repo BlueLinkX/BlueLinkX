@@ -85,7 +85,7 @@ Conference entries include CORE ranks. Venues without a current CORE listing are
 
 ### Journal Papers
 
-1. **Cai, Jinyu** (First Author), Li, J., Li, N., Mao, Z., Zhang, M., and Tei, Kenji. "SAGE: Semantic-Aware Gray-Box Game Regression Testing with Large Language Models." Submitted to *Automated Software Engineering*, 2026. `[IF: 3.1]` `[arXiv: 2512.00560]` `[Major Revision]`
+1. **Cai, Jinyu** (First Author), Li, J., Li, N., Mao, Z., Zhang, M., and Tei, Kenji. "SAGE: Semantic-Aware Gray-Box Game Regression Testing with Large Language Models." *Automated Software Engineering*, 2026.5 `[IF: 3.1]` `[arXiv: 2512.00560]` 
 2. **Cai, Jinyu** (First Author), Zhang, M., Li, N., Xu, J., Li, T., Li, J., Iba, H., and Tei, Kenji. "Automated Smoking Testing for Multi-ending Game Quest via Large Language Models." *IEEE Transactions on Games*, 2025. `[IF: 2.8]` `[Major Revision]`
 3. **Cai, Jinyu** (First Author), Ishimizu, Y., Zhang, M., Li, M., Li, J., and Tei, Kenji. "Simulation of Language Evolution under Regulated Social Media Platforms." *Journal of Computational Social Science (JCSS)*, 2025. `[IF: 2.3]` `[arXiv: 2502.19193]` `[Major Revision]`
 4. **Cai, Jinyu** (First Author), Li, J., Zhang, M., and Tei, Kenji. "Value Iteration Networks with Gated Summarization Module." *IEEE Access*, 2023. `[IF: 3.6]`
